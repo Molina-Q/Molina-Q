@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+![GRAPH](https://github-readme-stats.vercel.app/api/top-langs/?username=Molina-Q&theme=blue-green)
