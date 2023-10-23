@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # About me
 🌱 - I am a dev in training<br/>
 🔭 - I am extremely curious and love to learn new things<br/>
-🌌 - I find the limitless possibilities of programming are really exciting!<br/>
+🌌 - I find the limitless possibilities of programming really exciting!<br/>
 ☀️ - I particularly love PHP and Javascript
 
 <!-- skills -->
