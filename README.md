@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 🌌 - I find that infinite possibilities of programming are fascinating<br/>
 ☀️ - I especially love PHP and Javascript
 
+⚡ - Currently learning React
+
 <!-- skills -->
 ## What i use to code 
 
