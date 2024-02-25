@@ -58,3 +58,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molina-q&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
