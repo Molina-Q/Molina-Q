@@ -15,26 +15,27 @@ Here are some ideas to get you started:
 -->
 <!-- intro -->
 
-<h3 align="center">
-	<samp>&gt; <b>Welcome, I am Quentin!</b>
-	</samp>
+<h3 align="center"> </br></br></br>
+	<samp>&gt; <b>Welcome, I am Quentin 🎇 </b>
+	</samp></br></br></br>
 </h3>
 
+##
 <a href="https://www.linkedin.com/in/quentin-molina" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo"/>
 </a>
 
 <!-- about -->
-# About me
+# 🎴 About me
 🌱  I am a fullstack web developper in training<br/>
 🔭  I am curious and love to learn new things<br/>
 🌌  I find that infinite possibilities of programming are fascinating<br/>
 ☀️  I especially love PHP and Javascript
 
-⚡ - Currently learning the MERN stack
+⚡ Currently learning the MERN stack
 
 <!-- skills -->
-## Skill set
+## 📺 Skill set
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,14 +52,18 @@ Here are some ideas to get you started:
 ![Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=885630&logo=Composer&logoColor=FFFFFF&label=)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## Currently learning
+## 🎓 Currently learning
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molina-q&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📼 Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molina-q&layout=pie&theme=material-palenight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+![molina-q's Streak](https://github-readme-streak-stats.herokuapp.com/?user=molina-q&theme=material-palenight&hide_border=false)
+
+
 
 
