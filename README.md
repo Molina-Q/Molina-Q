@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!-- about -->
 # 🎴 About me
-🌱  I am a fullstack web developper in training<br/>
-🔭  I am curious and love to learn new things<br/>
-🌌  I find that infinite possibilities of programming are fascinating<br/>
-☀️  I especially love PHP and Javascript
+🌱  Web developper in training, fullstack-oriented<br/>
+🔭  Curious and eager to learn<br/>
+🌌  Fascinated with the infinite possibilities offered by programming<br/>
+☀️  My favourite languages are PHP and JavaScript
 
 ⚡ Currently learning the MERN stack
 
