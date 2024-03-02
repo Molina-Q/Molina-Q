@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo"/>
 </a>
 
+<a href="https://www.freecodecamp.org/Molina-Q" target="_blank">
+	<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp logo"/>
+</a>
+ 	
 <!-- about -->
 # 🎴 About me
 🌱  Web developper in training, fullstack-oriented<br/>
