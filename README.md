@@ -40,15 +40,17 @@ Here are some ideas to get you started:
 
 <!-- skills -->
 ## 📺 Skill set
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+> [!Skill set] Skill set
+> 
+> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,9 +66,11 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📼 Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molina-q&layout=pie&theme=material-palenight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molina-q&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![molina-q's Streak](https://github-readme-streak-stats.herokuapp.com/?user=molina-q&theme=material-palenight&hide_border=false)
+![molina-q's Streak](https://github-readme-streak-stats.herokuapp.com/?user=molina-q&theme=material-palenight&hide_border=true)
+
 
 
 
