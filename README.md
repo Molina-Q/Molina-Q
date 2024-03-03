@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- intro -->
 
 <h3 align="center"> </br></br></br>
-	<samp>&gt; <b>Welcome, I am Quentin 🎇 </b>
+	<samp> <h3>&gt; Welcome, I am Quentin 🎇 </h3>
 	</samp></br></br></br>
 </h3>
 
