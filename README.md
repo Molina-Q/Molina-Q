@@ -74,7 +74,5 @@ Here are some ideas to get you started:
 
 ![molina-q's Streak](https://github-readme-streak-stats.herokuapp.com/?user=molina-q&theme=material-palenight&hide_border=true)
 
-
-
-
+![molina-q's Graph](https://github-readme-activity-graph.vercel.app/graph?username=molina-q&theme=material-palenight&area=true&hide_border=true)
 
