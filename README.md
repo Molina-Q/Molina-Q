@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 🌱  Web developper in training, fullstack-oriented<br/>
 🔭  Curious and eager to learn<br/>
 🌌  Fascinated with the infinite possibilities offered by programming<br/>
-☀️  My favourite languages are PHP and JavaScript
+☀️  I absolutely love JavaScript and everything surrounding it
 
 ⚡ Currently learning the MERN stack
 
