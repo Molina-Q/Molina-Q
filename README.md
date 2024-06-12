@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 🌌  Fascinated with the infinite possibilities offered by programming<br/>
 ☀️  I absolutely love JavaScript and everything surrounding it
 
-⚡ Currently learning C<br/>
+⚡ Currently learning C and Next<br/>
 <!-- 🐣 And getting curious about low-level languages! (currently learning C) -->
 <!-- skills -->
 ## 📺 Skill set
@@ -85,10 +85,18 @@ Here are some ideas to get you started:
 
 ## 🎓 Currently learning
 
+
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) 
+
+[![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<!--[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)-->
+<!--[![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)-->
+
 
 <!--[![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)-->
 
