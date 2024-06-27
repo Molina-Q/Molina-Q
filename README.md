@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 🌌  Fascinated with the infinite possibilities offered by programming<br/>
 ☀️  I absolutely love JavaScript and everything surrounding it
 
-⚡ Currently Next<br/>
+⚡ Currently learning Next, Vue and Angular<br/>
 <!-- 🐣 And getting curious about low-level languages! (currently learning C) -->
 <!-- skills -->
 ## 📺 Skill set
