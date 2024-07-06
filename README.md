@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 🌌  Fascinated with the infinite possibilities offered by programming<br/>
 ☀️  I absolutely love JavaScript and everything surrounding it
 
-⚡ Currently learning Next, Vue and Angular<br/>
+⚡ Currently learning JS framworks and Rust<br/>
 <!-- 🐣 And getting curious about low-level languages! (currently learning C) -->
 <!-- skills -->
 ## 📺 Skill set
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
@@ -96,16 +95,15 @@ Here are some ideas to get you started:
 
 ## 🎓 Currently learning
 
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 
-
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <!--[![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)-->
-
-
 <!--[![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)-->
+<!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
 
 
 
