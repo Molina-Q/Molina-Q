@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  	
 <!-- about -->
 # 🎴 About me
-🌱  Web developper in training, fullstack-oriented<br/>
+🌱  Junior Web developper, fullstack-oriented<br/>
 🔭  Curious and eager to learn<br/>
 🌌  Fascinated with the infinite possibilities offered by programming<br/>
 ☀️  I absolutely love JavaScript and everything surrounding it
